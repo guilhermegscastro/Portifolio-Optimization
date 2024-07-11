@@ -1,13 +1,3 @@
-
-Project Structure
-Import Packages & Data: The initial setup, including the import of necessary Python packages and data.
-Data Processing: Steps to clean and prepare the data for analysis.
-Portfolio Construction: Building the equal-weighted portfolio.
-Scenario Generation and Optimization: Generating random portfolios and optimizing for the best return adjusted for risk.
-Results Visualization: Graphical representation of the portfolio performances and optimization results.
-
-
-
 <h1>Portfolio Optimization Case Study</h1>
 
 <h2>Project Overview</h2>
@@ -26,6 +16,14 @@ In this case study, we explore the construction and optimization of investment p
 - <b>Scenario Analysis: Using Monte Carlo simulation, 10,000 different portfolio weight combinations are generated to explore a wide range of potential outcomes. </b>
 - <b>Optimization Technique: The project employs optimization techniques to identify the portfolio with the best risk-adjusted return. </b>
 - <b>Visualization: Comprehensive visualizations are created to illustrate the performance and characteristics of both the equal-weighted and optimized portfolios.</b>
+
+<h2>Project Structure</h2>
+
+- <b>Import Packages & Data: The initial setup, including the import of necessary Python packages and data. </b>
+- <b>Data Processing: Steps to clean and prepare the data for analysis. </b>
+- <b>Portfolio Construction: Building the equal-weighted portfolio. </b>
+- <b>Scenario Generation and Optimization: Generating random portfolios and optimizing for the best return adjusted for risk. </b>
+- <b>Results Visualization: Graphical representation of the portfolio performances and optimization results.</b>
 
 Assumptions: <br/>
 <img src="https://imgur.com/O7otG4s.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
