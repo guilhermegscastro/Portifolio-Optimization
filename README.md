@@ -4,41 +4,48 @@
 In this case study, we explore the construction and optimization of investment portfolios using stocks and ETFs. The goal is to demonstrate the process of creating a portfolio with equal weighting and another portfolio optimized for the best return adjusted for risk. This project involves the following steps:
 
 - <b>Data Import: Importing five years of historical data for 15 stocks and ETFs from the NASDAQ database. </b>
+
 Data Import: <br/>
 <img src="https://imgur.com/3KFpAY6.png" height="70%" width="70%" alt="Portfolio Optimization"/>
 <br />
 
 - <b>Initial Portfolio Construction: Building an initial portfolio with equal weighting for each of the 15 stocks. </b>
+
 Portfolio Construction: <br/>
 <img src="https://imgur.com/GpHDfrm.png" height="70%" width="70%" alt="Portfolio Optimization"/>
 <br />
 
 - <b>Analysis and Visualization: Analyzing and visualizing the performance of the equal-weighted portfolio. </b>
+
 Visualizing the performance of the equal-weighted portfolio: <br/>
 <img src="https://imgur.com/JwKHekf.png" height="70%" width="70%" alt="Portfolio Optimization"/>
 <br />
 
 - <b>Scenario Generation: Generating 10,000 portfolio scenarios with random weightings for each stock. </b>
 - <b>Optimization: Identifying the optimal portfolio from the generated scenarios and visualizing the results. </b>
+
 Portfolio with the best risk-adjusted return: <br/>
-<img src="https://imgur.com/ueEnOtR.png" height="70%" width="70%" alt="Portfolio Optimization"/>
+<img src="https://imgur.com/RVyO9GO.png" height="70%" width="70%" alt="Portfolio Optimization"/>
 <br />
 
 <h2>Key Components</h2>
 
 - <b>Data Handling: The project utilizes historical stock price data, focusing on the adjusted closing prices for analysis. </b>
 - <b>Equal-Weighted Portfolio: The initial portfolio is constructed with equal allocation to each stock, serving as a baseline for comparison. </b>
+
 Equal-Weighted Portfolio: <br/>
 <img src="https://imgur.com/f2dIsvC.png" height="70%" width="70%" alt="Portfolio Optimization"/>
 <br />
+
 Correlation Matrix: <br/>
 <img src="https://imgur.com/ej6JEY8.png" height="70%" width="70%" alt="Portfolio Optimization"/>
 <br />
 
 - <b>Scenario Analysis: Using Monte Carlo simulation, 10,000 different portfolio weight combinations are generated to explore a wide range of potential outcomes. </b>
 - <b>Optimization Technique: The project employs optimization techniques to identify the portfolio with the best risk-adjusted return. </b>
+
 Identifying the optimal portfolio: <br/>
-<img src="https://imgur.com/RVyO9GO.png" height="70%" width="70%" alt="Portfolio Optimization"/>
+<img src="https://imgur.com/ueEnOtR.png" height="70%" width="70%" alt="Portfolio Optimization"/>
 <br />
 
 - <b>Visualization: Comprehensive visualizations are created to illustrate the performance and characteristics of both the equal-weighted and optimized portfolios.</b>
