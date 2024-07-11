@@ -12,6 +12,7 @@ Results Visualization: Graphical representation of the portfolio performances an
 
 <h2>Project Overview</h2>
 In this case study, we explore the construction and optimization of investment portfolios using stocks and ETFs. The goal is to demonstrate the process of creating a portfolio with equal weighting and another portfolio optimized for the best return adjusted for risk. This project involves the following steps:
+
 - <b>Data Import: Importing five years of historical data for 15 stocks and ETFs from the NASDAQ database. </b>
 - <b>Initial Portfolio Construction: Building an initial portfolio with equal weighting for each of the 15 stocks. </b>
 - <b>Analysis and Visualization: Analyzing and visualizing the performance of the equal-weighted portfolio. </b>
