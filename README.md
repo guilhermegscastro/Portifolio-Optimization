@@ -4,6 +4,9 @@
 In this case study, we explore the construction and optimization of investment portfolios using stocks and ETFs. The goal is to demonstrate the process of creating a portfolio with equal weighting and another portfolio optimized for the best return adjusted for risk. This project involves the following steps:
 
 - <b>Data Import: Importing five years of historical data for 15 stocks and ETFs from the NASDAQ database. </b>
+Data Import: <br/>
+<img src="https://imgur.com/3KFpAY6.png" height="70%" width="70%" alt="Portfolio Optimization"/>
+<br />
 - <b>Initial Portfolio Construction: Building an initial portfolio with equal weighting for each of the 15 stocks. </b>
 - <b>Analysis and Visualization: Analyzing and visualizing the performance of the equal-weighted portfolio. </b>
 - <b>Scenario Generation: Generating 10,000 portfolio scenarios with random weightings for each stock. </b>
@@ -24,11 +27,6 @@ In this case study, we explore the construction and optimization of investment p
 - <b>Portfolio Construction: Building the equal-weighted portfolio. </b>
 - <b>Scenario Generation and Optimization: Generating random portfolios and optimizing for the best return adjusted for risk. </b>
 - <b>Results Visualization: Graphical representation of the portfolio performances and optimization results.</b>
-
-Assumptions: <br/>
-<img src="https://imgur.com/O7otG4s.png" height="70%" width="70%" alt="Debt Modeling Project for Walmart"/>
-<br />
-- <b>Debt Schedules: Debt Forecast, Existing Debt and Operating Line of Credit. </b>
 
 <h2>How to Use </h2>
 
